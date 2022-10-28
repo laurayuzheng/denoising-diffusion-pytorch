@@ -1,3 +1,7 @@
+data/
+results_cifar10/
+root_cifar10/
+
 # Generation results
 results/
 
